@@ -1,8 +1,9 @@
-[nodejs][http://nodejs.org/]
-[grunt][http://gruntjs.com/]
-[daneden][https://github.com/daneden]
-[animate.css][https://github.com/daneden/animate.css]
-[animate-demo][http://daneden.me/animate/]
+[nodejs]:http://nodejs.org/
+[grunt]:http://gruntjs.com/
+[daneden]:https://github.com/daneden
+[animate.css]:https://github.com/daneden/animate.css
+[animate-demo]:http://daneden.me/animate/
+[apache-license2]:http://www.apache.org/licenses/LICENSE-2.0
 # Animate.less
 
 基于css3的常用动画，根据[daneden][daneden]的[animate.css][animate.css]改用less，为了方便less用户的使用。
@@ -126,3 +127,7 @@ rollOut
 
 ## Release History
 0.0.1
+
+## License
+Copyright (c) 2013 excalibur 
+Licensed under the [Apache License2][apache-license2]. 
