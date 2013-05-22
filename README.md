@@ -27,12 +27,15 @@
 >$ npm install -g grunt-cli
 >```
 >
+
 ####编辑animate.less
 >位于less/css/animate.less。为了定义所需要的动画。默认包括了全部动画。
 >
+
 ####运行spa-run.bat
 >将会编译成为animate.css。生成在assets/css/animate.css。
 >
+
 ## Documentation
 ####Attention seekers:
 flash `flash`
