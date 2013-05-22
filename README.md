@@ -8,26 +8,26 @@
 基于css3的常用动画，根据[daneden][daneden]的[animate.css][animate.css]改用less，为了方便less用户的使用。
 
 ## System Requirement
-* [nodejs][nodejs]
-* [grunt][grunt]
++ [nodejs]
++ [grunt]
 
 ## Getting Started
 
 ####安装nodejs
 
 ####安装grunt
-如果你曾经安装过grunt请先卸载
+>如果你曾经安装过grunt请先卸载
 ```
 $ npm uninstall -g grunt
 ```
-然后安装
+>然后安装
 ```
 $ npm install -g grunt-cli
 ```
 ####编辑animate.less
-位于less/css/animate.less。为了定义所需要的动画。默认包括了全部动画。
+>位于less/css/animate.less。为了定义所需要的动画。默认包括了全部动画。
 ####运行spa-run.bat
-将会编译成为animate.css。生成在assets/css/animate.css。
+>将会编译成为animate.css。生成在assets/css/animate.css。
 ## Documentation
 ####Attention seekers:
 flash `flash`
