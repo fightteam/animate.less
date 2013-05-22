@@ -9,9 +9,15 @@
 ## Getting Started
 
 ####安装nodejs
+
 ####安装grunt
+如果你曾经安装过grunt请先卸载
 ```
-$ npm install -g grunt
+$ npm uninstall -g grunt
+```
+然后安装
+```
+$ npm install -g grunt-cli
 ```
 ####编辑animate.less
 	位于less/css/animate.less。为了定义所需要的动画。
