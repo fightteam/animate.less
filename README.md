@@ -20,14 +20,112 @@ $ npm uninstall -g grunt
 $ npm install -g grunt-cli
 ```
 ####编辑animate.less
-	位于less/css/animate.less。为了定义所需要的动画。
+位于less/css/animate.less。为了定义所需要的动画。默认包括了全部动画。
 ####运行spa-run.bat
-	将会编译成为animate.css。位于assets/css/animate.css。
+将会编译成为animate.css。生成在assets/css/animate.css。
 ## Documentation
-_(Coming soon)_
+####Attention seekers:
+flash
+```
+flash
+```
+bounce
+```
+flash
+```
+shake
+```
+flash
+```
+tada
+```
+flash
+```
+swing
+```
+flash
+```
+wobble
+```
+flash
+```
+wiggle
+```
+flash
+```
+pulse
+```
+flash
+```
+
+####Flippers (currently Webkit, Firefox, &amp; IE10 only):
+flip
+flipInX
+flipOutX
+flipInY
+flipOutY
+
+####Fading entrances:
+fadeIn
+fadeInUp
+fadeInDown
+fadeInLeft
+fadeInRight
+fadeInUpBig
+fadeInDownBig
+fadeInLeftBig
+fadeInRightBig
+
+####Fading exits:
+fadeOut
+fadeOutUp
+fadeOutDown
+fadeOutLeft
+fadeOutRight
+fadeOutUpBig
+fadeOutDownBig
+fadeOutLeftBig
+fadeOutRightBig
+
+####Bouncing entrances:
+bounceIn
+bounceInDown
+bounceInUp
+bounceInLeft
+bounceInRight
+
+####Bouncing exits:
+bounceOut
+bounceOutDown
+bounceOutUp
+bounceOutLeft
+bounceOutRight
+
+####Rotating entrances:
+rotateIn
+rotateInDownLeft
+rotateInDownRight
+rotateInUpLeft
+rotateInUpRight
+
+####Rotating exits:
+rotateOut
+rotateOutDownLeft
+rotateOutDownRight
+rotateOutUpLeft
+rotateOutUpRight
+
+####Lightspeed:
+lightSpeedIn
+lightSpeedOut
+
+####Specials:
+hinge
+rollIn
+rollOut
 
 ## Examples
-_(Coming soon)_
+[daneden][]的例子[animate][]
 
 ## Release History
 0.0.1
