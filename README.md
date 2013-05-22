@@ -3,8 +3,8 @@
 基于css3的常用动画，根据animate改用less，为了方便less用户的使用。
 
 ## System Requirement
-	nodejs
-	grunt
+	*[nodejs](http://nodejs.org/)
+	*[grunt]()
 
 ## Getting Started
 
