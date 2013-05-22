@@ -1,10 +1,15 @@
+[nodejs](http://nodejs.org/)
+[grunt](http://gruntjs.com/)
+[daneden](https://github.com/daneden)
+[animate.css](https://github.com/daneden/animate.css)
+[animate-demo](http://daneden.me/animate/)
 # Animate.less
 
-基于css3的常用动画，根据[daneden](https://github.com/daneden)的[animate](https://github.com/daneden/animate.css)改用less，为了方便less用户的使用。
+基于css3的常用动画，根据[daneden][daneden]的[animate.css][animate.css]改用less，为了方便less用户的使用。
 
 ## System Requirement
-* [nodejs](http://nodejs.org/)
-* [grunt](http://gruntjs.com/)
+* [nodejs][nodejs]
+* [grunt][grunt]
 
 ## Getting Started
 
@@ -25,38 +30,22 @@ $ npm install -g grunt-cli
 将会编译成为animate.css。生成在assets/css/animate.css。
 ## Documentation
 ####Attention seekers:
-flash
-```
-flash
-```
+flash `flash`
+
 bounce
-```
-flash
-```
+
 shake
-```
-flash
-```
+
 tada
-```
-flash
-```
+
 swing
-```
-flash
-```
+
 wobble
-```
-flash
-```
+
 wiggle
-```
-flash
-```
+
 pulse
-```
-flash
-```
+
 
 ####Flippers (currently Webkit, Firefox, &amp; IE10 only):
 flip
@@ -125,7 +114,7 @@ rollIn
 rollOut
 
 ## Examples
-[daneden][]的例子[animate][]
+[daneden][daneden]的例子[animate][animate-demo]
 
 ## Release History
 0.0.1
