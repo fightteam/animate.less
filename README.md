@@ -1,8 +1,8 @@
-[nodejs](http://nodejs.org/)
-[grunt](http://gruntjs.com/)
-[daneden](https://github.com/daneden)
-[animate.css](https://github.com/daneden/animate.css)
-[animate-demo](http://daneden.me/animate/)
+[nodejs][http://nodejs.org/]
+[grunt][http://gruntjs.com/]
+[daneden][https://github.com/daneden]
+[animate.css][https://github.com/daneden/animate.css]
+[animate-demo][http://daneden.me/animate/]
 # Animate.less
 
 基于css3的常用动画，根据[daneden][daneden]的[animate.css][animate.css]改用less，为了方便less用户的使用。
