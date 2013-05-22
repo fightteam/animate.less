@@ -4,14 +4,17 @@
 
 ## System Requirement
 * [nodejs](http://nodejs.org/)
-* [grunt]()
+* [grunt](http://gruntjs.com/)
 
 ## Getting Started
 
-1.安装nodejs
-2.安装grunt
-3.编辑animate.less
-4.运行spa-run.bat
+####安装nodejs
+```
+$ npm install
+```
+####安装grunt
+####编辑animate.less
+####运行spa-run.bat
 
 ## Documentation
 _(Coming soon)_
