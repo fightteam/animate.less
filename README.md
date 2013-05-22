@@ -1,16 +1,17 @@
 # Animate.less
 
-»ùÓÚcss3µÄ³£ÓÃ¶¯»­£¬¸ù¾İanimate¸ÄÓÃless£¬ÎªÁË·½±ãlessÓÃ»§µÄÊ¹ÓÃ¡£
+åŸºäºcss3çš„å¸¸ç”¨åŠ¨ç”»ï¼Œæ ¹æ®animateæ”¹ç”¨lessï¼Œä¸ºäº†æ–¹ä¾¿lessç”¨æˆ·çš„ä½¿ç”¨ã€‚
+
+## System Requirement
+	nodejs
+	grunt
+
 ## Getting Started
 
-
-
-
-In your web page:
-
-```html
-
-```
+1.å®‰è£…nodejs
+2.å®‰è£…grunt
+3.ç¼–è¾‘animate.less
+4.è¿è¡Œspa-run.bat
 
 ## Documentation
 _(Coming soon)_
@@ -19,4 +20,4 @@ _(Coming soon)_
 _(Coming soon)_
 
 ## Release History
-_(Nothing yet)_
+0.0.1
