@@ -8,7 +8,7 @@
 
 基于css3的常用动画，根据[daneden][daneden]的[animate.css][animate.css]改用less，为了方便less用户的使用。
 
-## System Requirement
+## System Requirements
 + [nodejs]
 + [grunt]
 

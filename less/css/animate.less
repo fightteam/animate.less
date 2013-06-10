@@ -54,4 +54,22 @@
 @import "../animate/tada.less";
 @import "../animate/wiggle.less";
 @import "../animate/wobble.less";
-
+body { 
+	-webkit-backface-visibility: hidden;
+}
+.animated {
+	.animation-duration(1s);
+	.animation-fill-mode(both);
+}
+.animated.hinge {
+	.animation-duration(2s);
+}
+.animated.lightSpeedIn {
+    .animation-duration(0.5s);
+}
+.animated.lightSpeedOut {
+    .animation-duration(0.25s);
+}
+.animated.wiggle {
+    .animation-duration(0.75s);
+}
